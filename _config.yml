@@ -21,7 +21,7 @@
 title: Gernot Pointners Home on the Internet
 email: me@thisdomain.de
 description: >- # this means to ignore newlines until "baseurl:"
-	This is my personal blog where I share my thoughts and ideas.
+ This is my personal blog where I share my thoughts and ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.gernotpointner.de" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: GernotPointner
