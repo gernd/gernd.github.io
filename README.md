@@ -3,8 +3,14 @@
 
 My personal website 
 * This is my personal website built with [Jekyll](https://www.jekyllrb.com)
+
+
+# Running the dev server locally
 * For running the local preview, use 
 
 ```
     bundle exec jekyll serve
 ```
+
+# Deployment
+For deployment push to the master branch
