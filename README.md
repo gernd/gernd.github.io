@@ -12,5 +12,11 @@ My personal website
     bundle exec jekyll serve
 ```
 
+# Updating jekyll blogging engine
+
+```
+    bundle update github-pages
+```
+
 # Deployment
 For deployment push to the master branch
