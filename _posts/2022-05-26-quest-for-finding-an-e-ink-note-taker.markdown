@@ -27,14 +27,14 @@ For me this mixture of using digital tools and pen and paper lead to some proble
   * Manual digitization of notes (by taking photos or scanning them) creates additional effort which often results in not doing it at all
   * When annotating larger documents, I have to print the whole document at first and then rescan it again to retain my notes
   
-For keeping tbe feeling of "writing on a piece of paper" and tackle the aforementioned problems of analogous note-taking, an e-ink note taking device seems to the obvious choice.
+For keeping the feeling of "writing on a piece of paper" and tackle the aforementioned problems of analogous note-taking, an e-ink note taking device seems to be the obvious choice.
 
 # Bridging the gap
 
 My setup consists of my Macbook and a cloud based file share (HiDrive in my case). The cloud based service is accessible via SFTP and also via native Android/iOS apps and a web based interface. For my e-ink note taker I would like to have the following use cases supported
 
 * taking notes and saving them as an image to the cloud service
-* mirroring the screen of the note taking device to the Macbook to it can be used during online meetings or for presentations
+* mirroring the screen of the note taking device to the Macbook so it can be used during online meetings or for presentations
 * annotating pdf documents on the cloud file share
 
 Of course a long battery run-time and a moderate price are also favourable. For the device I am not looking for any functionality besides note-taking (like a media player or web browsing).
