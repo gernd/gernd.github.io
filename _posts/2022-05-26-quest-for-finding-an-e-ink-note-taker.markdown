@@ -1,11 +1,15 @@
 ---
 layout: post
 title:  "The quest for finding an e-ink note taker"
-date:   2022-05-01 14:33:35 +0200
+date:   2022-05-26 11:50:35 +0200
 tags: knowledge-management e-ink note-taking
 ---
 
 # Why don't just use a digital tool for note-taking?
+
+|  ![Handwritten notes](/images/quest-for-e-ink-note-taker-notes.jpg) |
+|:--:| 
+| *Image credits: [Dim Hou on unsplash](https://unsplash.com/@dimhou)* |
 
 For my private software projects I often find myself switching between numerous digital tools for note-taking (e.g. github wikis, notion and markdown files).
 
@@ -20,12 +24,13 @@ For me this mixture of using digital tools and pen and paper lead to some proble
 
   * Sometimes the same information is spread across digital tools and pieces of paper 
   * Information on pieces of paper is barely searchable
-  * Manual digitization of notes (by taking photos or scanning them) creates additional effort which often results in not doing it
+  * Manual digitization of notes (by taking photos or scanning them) creates additional effort which often results in not doing it at all
   * When annotating larger documents, I have to print the whole document at first and then rescan it again to retain my notes
   
 For keeping tbe feeling of "writing on a piece of paper" and tackle the aforementioned problems of analogous note-taking, an e-ink note taking device seems to the obvious choice.
 
 # Bridging the gap
+
 My setup consists of my Macbook and a cloud based file share (HiDrive in my case). The cloud based service is accessible via SFTP and also via native Android/iOS apps and a web based interface. For my e-ink note taker I would like to have the following use cases supported
 
 * taking notes and saving them as an image to the cloud service
@@ -36,6 +41,3 @@ Of course a long battery run-time and a moderate price are also favourable. For 
 Also OCR is not a high-priority feature for my usecase, as I consider my notes to be more sketching than texting.
 
 I'll document my findings in the posts to follow. Stay tuned :-)
-
-
-
