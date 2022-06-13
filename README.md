@@ -9,7 +9,7 @@ My personal website
 * For running the local preview, use 
 
 ```
-    bundle exec jekyll serve
+    bundle exec jekyll serve --drafts
 ```
 
 # Updating jekyll blogging engine
