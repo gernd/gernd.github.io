@@ -31,13 +31,13 @@ For keeping the feeling of "writing on a piece of paper" and tackle the aforemen
 
 # Bridging the gap
 
-My setup consists of my Macbook and a cloud based file share (HiDrive in my case). The cloud based service is accessible via SFTP and also via native Android/iOS apps and a web based interface. For my e-ink note taker I would like to have the following use cases supported
+My setup consists of my Macbook and a cloud based file share (HiDrive in my case). The cloud based service is accessible via SFTP and also via native Android/iOS apps and a web based interface. For my e-ink note taker I would like to have the following 🧰use cases supported
 
 * taking notes and saving them as an image to the cloud service
 * mirroring the screen of the note taking device to the Macbook so it can be used during online meetings or for presentations
 * annotating pdf documents on the cloud file share
 
-Of course a long battery run-time and a moderate price are also favourable. For the device I am not looking for any functionality besides note-taking (like a media player or web browsing).
+Of course a long 🔋battery run-time and a moderate 💰price are also favourable. For the device I am not looking for any functionality besides note-taking (like a media player or web browsing).
 Also OCR is not a high-priority feature for my usecase, as I consider my notes to be more sketching than texting.
 
 I'll document my findings in the posts to follow. Stay tuned :-)
