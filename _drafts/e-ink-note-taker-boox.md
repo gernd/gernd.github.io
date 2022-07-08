@@ -5,11 +5,10 @@ date:   2022-04-26 11:50:35 +0200
 tags: knowledge-management e-ink note-taking
 ---
 
-# The Boox series
 One of the first e-ink note takers that I took a closer look at during my [quest for finding an e-ink note taker](https://www.gernotpointner.de/2022/05/26/quest-for-finding-an-e-ink-note-taker.html)
 where some products from the Onyx Boox series. Onyx offers a wide range of e-ink note taking devices and readers, starting its business in already 2006.
 
-# Onyx Book Nova 3 Color
+## Onyx Book Nova 3 Color
 The first product from the Boox series that I took a look at was the [Nova 3 Color](https://onyxboox.com/boox_nova3color). It is an Android-powered tablet that comes with an included Stylus pen.
 Compared to the other note-taking devices it clearly stands out because of its coloured display which is capable of displaying 4096 colors. While this does not really benefit my usecase, the reviews were quite positive about it. With a price of about 420-460€ it 
 is definitely in a higher pricing segment.
@@ -24,7 +23,7 @@ Remarkable 2 pen. The Book Nova 3 Color is described as lighter than most tablet
 One common criticism from the reviews is that for apps with frequent screen changes like youtube videos or games ghosting appears (which means that some fragments of the screen are not properly updated).
 This also seemed to be the case sometimes when reading PDFs. 
 
-## Summary
+### Summary
 
 In summary, the Onxy Book Nova 3 Color seems to meet all requirements for my use cases although being quite pricey and its main selling point, the color display, being of very little importance to my needs. Ghosting also seems to be a minor problem, but should not affect
 me that much. The great writing experience and the high-quality pen is definitely a plus.
@@ -33,6 +32,21 @@ me that much. The great writing experience and the high-quality pen is definitel
 * 💰Price: ~460 €
 * 🔋Battery time: 40 days of standby time, 4 to 5 days of moderate use
 
-TODO Onxy note book 2
+## Onxy Note Book 2
+The [Onyx Note Book 2](https://onyxboox.com/boox_note2) is also an powered by Android. Unlike the Nova 3 Color, it does not have a color display. With its 10.3 inch display it is significantly larger than other e-ink note takers. The available software allows for editing PDFs and 
+sketching functionality. The Onyx Note Book 2 supports PDF and Epubs and is also capable of playing MP3s.
+It comes with a Wacom stylus pen TODO and a cover? According to the specifications the battery time is up to 4 weeks in standby mode. It is about 500€.
+
+According to [Techradar](https://www.techradar.com/reviews/onyx-boox-note-air-2-review) one big plus is the paper-like screen which results in a incredibly natural feeling for writing and editing. The Boox software allows for exporting the notes to PDF and PNG files. Despite its large screen,
+the note taker only weighs 420g. Regarding battery time the review states that with Wifi on and the device in heavy use, it ran out of power after a week. The Wacom stylus pen does not have to be recharged. Drawbacks mentioned are the weak magnet of the Stylus pen and that sometimes there 
+is a ghosting effect. And the high price, of course :-)
+
+### Summary
+The Onyx Note Book 2 meets all my requirements and looks a like a perfect fit because of its great writing and reading experience (if you believe the reviews TODO wording) and with its big screen. Compared to to the Nova Color 3 it is even slightly pricier and lacks a color display.
+On the other hand it has the benefit of a bigger screen and longer battery runtime. This makes it more favourable for me given my needs. (TODO: link)
+
+* 🧰Use cases: supported, screen mirroring and file syncing via Android apps
+* 💰Price: ~500 €
+* 🔋Battery time: Up to 4 weeks standby time, one week of heavy usage
 
 TODO onyx book nova air
