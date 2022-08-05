@@ -33,14 +33,14 @@ me that much. The great writing experience and the high-quality pen is definitel
 * 🔋Battery time: 40 days of standby time, 4 to 5 days of moderate use
 
 ## Onxy Note Book 2
-The [Onyx Note Book 2](https://onyxboox.com/boox_note2) is also an powered by Android. Unlike the Nova 3 Color, it does not have a color display. With its 10.3 inch display it is significantly larger than other e-ink note takers. The available software allows for editing PDFs and 
+The [Onyx Note Book 2](https://onyxboox.com/boox_note2) is also a note taking device powered by Android. Unlike the Nova 3 Color, it does not have a color display. With its 10.3 inch display it is significantly larger than other e-ink note takers. The available software allows for editing PDFs and 
 sketching functionality. The Onyx Note Book 2 supports PDF and Epubs and is also capable of playing MP3s.
 It comes with a Wacom stylus pen TODO and a cover? According to the specifications the battery time is up to 4 weeks in standby mode. It is about 500€.
 
 According to [Techradar](https://www.techradar.com/reviews/onyx-boox-note-air-2-review) one big plus is the paper-like screen which results in a incredibly natural feeling for writing and editing. The Boox software allows for exporting the notes to PDF and PNG files. Despite its large screen,
 the note taker only weighs 420g. Regarding battery time the review states that with Wifi on and the device in heavy use, it ran out of power after a week. The Wacom stylus pen does not have to be recharged. Drawbacks mentioned are the weak magnet of the Stylus pen and that sometimes there 
 is a ghosting effect. And the high price, of course :-)
-
+    
 ### Summary
 The Onyx Note Book 2 meets all my requirements and looks a like a perfect fit because of its great writing and reading experience (if you believe the reviews TODO wording) and with its big screen. Compared to to the Nova Color 3 it is even slightly pricier and lacks a color display.
 On the other hand it has the benefit of a bigger screen and longer battery runtime. This makes it more favourable for me given my needs. (TODO: link)
@@ -48,5 +48,7 @@ On the other hand it has the benefit of a bigger screen and longer battery runti
 * 🧰Use cases: supported, screen mirroring and file syncing via Android apps
 * 💰Price: ~500 €
 * 🔋Battery time: Up to 4 weeks standby time, one week of heavy usage
+
+## Onyx Note Book 2
 
 TODO onyx book nova air

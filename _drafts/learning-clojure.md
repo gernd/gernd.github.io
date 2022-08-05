@@ -14,13 +14,15 @@ tags: programming clojure
 * interesting facts about clojure
   * REPL
   * totally different than the programming languages I have worked with
+    * REPL, inspector, atoms ...
   * it is a LISP
     * "Structure and interpretation of computer programs" (SICP is a book I wanted to read since university
     * teaches you to think differently about programming
   * can be compiled to JVM Bytecode (can benefit from existing JVM)
-  * Java libraries can be used
+  * existing Java libraries can be used
 
-## how I learn
+## How I learn
+* In general: I learn best when I get both Theory and Practice
 * [TODO Clojure for the brave an true book]()
 * doing the examples on the REPL
 * playing around with the language on the REPL
