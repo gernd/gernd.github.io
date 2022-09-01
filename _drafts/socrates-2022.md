@@ -22,19 +22,31 @@ first time. The main part of the conference is a 2-day [Open Space](http://agile
 which means that there is no fixed agenda before the event as this evolves depending on the participants interests.
 
 ## How was the actual experience?
-* first evening (World cafe): get to know each other
-* in total: about 200 participants
-* already got the impression, that people are very inclusive and got to know that they attended the conference for many years
-* following 2 days: marketplace, where people introduced their sessions
-* could also be something like : teach me about ..."
-** everyone just shortly introduces their topic and finds a free slot in the agenda
-** topics: agile working, hiring, code katas, TDD, clojure, ...
-TODO: describe some sessions that I attended
-* on top: evening and morning sessions (going for a run, playing boardgames, powerpoint karaoke ..)
-* very inclusive
-* "come as you are"
+I already got to know some people during the World Cafe that took place on Thursday evening. Some told me, that they had been attending the conference for many 
+years and always wanted to go back because of the unique experience. A running group was announced that started in the morning, which I attended throughout the 
+whole conference. In the following 2 days, the Open Space took place. I was really amazed how many people were eager 
+to present a session, so that the schedule would never run out. The topics of the sessions were quite diverse, including TDD, clojure, hiring, code katas,
+agile working and many others. And also sheep :-) Also the format of each session was quite open, ranging from presentations, discussions or other formats
+like 4-2-2-all. You also did not have to be an expert for a topic to propose a session. It was also ok to ask other people to teach you.
+To give you an idea, I attended the following sessions throughout the conference:
+
+* Note-taking and knowledge management
+* Test Commit Revert
+* How bad are mono repos actually?
+* How can we cultivate a learning culture
+* Experiences with trunk-based-development
+* Non-binary people in binary organizations
+* Clojure Workshop
+* Building your own keyboard AMA
+* Unit test Anti-patterns
+
+On top of all the sessions for knowledge sharing, there were a lot of things going on in the evening as well. You could choose from playing boardgames, 
+powerpoint karaoke and much more in the evening or going for a run or doing morning medidation. All this was offered by the participants.
 
 ## Things I took from the conference
+* very inclusive
+* organizers managed to create a super inclusive atmosphere 
+-> everyone was participating and could be, who they are
 * great atmosphere
 * super friendly people
 * people were really motivated to participate
