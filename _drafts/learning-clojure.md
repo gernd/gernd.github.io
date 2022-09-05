@@ -32,7 +32,7 @@ tags: programming clojure
 * try to find a local group and try to explain concepts
 * plan: write small blog posts explaining what you have learned
 * try to answer stack overflow question?
-* doing code "katas": advent-of-code, random algorithmic puzzles like 8 queens problem or staircase-problem
+* doing code "katas": advent-of-code, random algorithmic puzzles like 8 queens problem or staircase-problem + exercism
 * IDE
   * started out with cursive
   * switched to Spacemacs 
