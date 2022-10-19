@@ -6,11 +6,27 @@ tags: programming clojure
 ---
 
 ## Why learning clojure?
-* Background, experience with programming languages so far
-  * Lot of Java
-  * C
+TODO journey picture
+### Where I come from
+* Turbo Pascal in School
+* Basic
+* Background, experience with programming languages so far - Where I come from?
+  * Lots of Java
+  * C and C++
   * Experience with Spring Boot <-> implementing Web services
+  * Toyed around with Javascript
   * "Backend Programmer"
+    * Interested in Software Architecture and Databases
+* Why learn a new programming language?
+  * Heard about functional programming in university (Standard ML)
+  * Took some trainings (props to Mike Sperber)
+  * my interest was growing
+  * looking for a "real" functional programming language to learn it
+  * how does it feel to program in a functional paradigm language?
+* Why Clojure?
+  * Why Clojure (and not e.g. Haskell)
+    * can be compiled to JVM Bytecode (can benefit from existing JVM)
+    * existing Java libraries can be used
 * interesting facts about clojure
   * REPL
   * totally different than the programming languages I have worked with
@@ -18,8 +34,9 @@ tags: programming clojure
   * it is a LISP
     * "Structure and interpretation of computer programs" (SICP is a book I wanted to read since university
     * teaches you to think differently about programming
-  * can be compiled to JVM Bytecode (can benefit from existing JVM)
-  * existing Java libraries can be used
+    * has an benefit even when not used in practice
+    * TODO link to article what from HackerNews (why lisp is a superior language)
+    
 
 ## How I learn
 * In general: I learn best when I get both Theory and Practice
